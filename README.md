@@ -5,7 +5,7 @@ Applied different Learning Rate Schedulers:
 
 1. Learning rate change on Platue.
 2. **Cyclical LR**, with small step size(2000).
-3. **Cyclical LR**, with large step size(10000 iterations = 25 epochs).
+3. **Cyclical LR**, with large step size(10000 iterations = 25 epochs). **Val Acc: 94.360% accuracy on validation data at 52nd epoch, taking a time of 35 min**.
 
 In the second case, it was possible to train the model to get **90% accuracy on validation dataset in 410 sec or 6.8 Min.**
 
